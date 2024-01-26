@@ -33,3 +33,8 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 # License
 This project is licensed under the MIT License.
+
+# eLibary System
+
+![eLibraryImage](https://github.com/luqmannulhakimm/eLibrarySystem/assets/42575926/2a9e763f-8a6b-4509-a368-33b94bdd2529)
+
